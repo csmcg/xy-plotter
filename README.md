@@ -1,4 +1,4 @@
-# UAB EE333 - Engineering Programming with Object
+# UAB EE333 - Engineering Programming with Objects
 ## Simulating an XY-Plotter with Filter Implementations in Java
 
 This Java programette was submitted as P7 for Dr. David Greene's class at UAB, Spring 2018. 
